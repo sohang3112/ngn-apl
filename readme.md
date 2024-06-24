@@ -1,5 +1,7 @@
 # ngn/apl
 
+**NOTE:** I'm archiving this repository since my changes here were successfully merged upstream via [my PR to allow installing as an offline PWA](https://github.com/abrudz/ngn-apl/pull/3).
+
 Try using it online **[here](https://sohang3112.github.io/ngn-apl)**. It can also be used as a [PWA (Progressive Web App)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app) on a computer / phone - even without internet!
 
 ![Screenshot](ngn-apl-screenshot.png)
